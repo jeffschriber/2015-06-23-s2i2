@@ -3,8 +3,10 @@
 ## Header 2
 
 - bullets
--another
+- another
 
 1. item 1
 2. item 2
 
+-bullet
+  -nested bullet
